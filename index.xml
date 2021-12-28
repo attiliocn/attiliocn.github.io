@@ -8,34 +8,6 @@
       <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Dec 2021 23:36:59 -0300</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Anewtest</title>
-      <link>https://examplesite.com/post/anewtest/</link>
-      <pubDate>Mon, 27 Dec 2021 23:36:59 -0300</pubDate>
-      
-      <guid>https://examplesite.com/post/anewtest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Newday</title>
-      <link>https://examplesite.com/post/newday/</link>
-      <pubDate>Mon, 27 Dec 2021 23:33:54 -0300</pubDate>
-      
-      <guid>https://examplesite.com/post/newday/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teste</title>
-      <link>https://examplesite.com/post/teste/</link>
-      <pubDate>Mon, 27 Dec 2021 23:25:36 -0300</pubDate>
-      
-      <guid>https://examplesite.com/post/teste/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
