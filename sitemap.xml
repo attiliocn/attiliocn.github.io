@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://attiliocn.github.io/categories/</loc>
+    <loc>https://attiliocn.github.io/blog/</loc>
+    <lastmod>2022-09-16T10:27:12-03:00</lastmod>
   </url><url>
     <loc>https://attiliocn.github.io/</loc>
+    <lastmod>2022-09-16T10:27:12-03:00</lastmod>
+  </url><url>
+    <loc>https://attiliocn.github.io/blog/2022-09-16_10-25-58_sample-post/</loc>
+    <lastmod>2022-09-16T10:27:12-03:00</lastmod>
+  </url><url>
+    <loc>https://attiliocn.github.io/categories/</loc>
   </url><url>
     <loc>https://attiliocn.github.io/tags/</loc>
   </url>
